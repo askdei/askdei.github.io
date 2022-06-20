@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ask@Dei</title>
+    <link>https://askdei.github.io/posts/</link>
+    <description>Recent content in Posts on Ask@Dei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Dei RE</copyright>
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://askdei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animasi Hamburger sederhana</title>
+      <link>https://askdei.github.io/posts/animasihamburger/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://askdei.github.io/posts/animasihamburger/</guid>
+      <description>apa itu? Animasi hamburger yang biasanya digunakan untuk bagian navigasi bar, dalam pembuatannya saya hanya menggunakan html, Javascript, dan css. Klik dua garis dibawah ini.
+Kode nya Menurut saya ini code sederhana jadi tidak terlalu sulit.
+html &amp;lt;!-- ###Kode HTML --&amp;gt; &amp;lt;div class=&amp;#34;burger__body&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;burger&amp;#34; id=&amp;#34;burger&amp;#34; onclick=&amp;#34;buka()&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;line__1&amp;#34; id=&amp;#34;line__1&amp;#34;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;line__2&amp;#34; id=&amp;#34;line__2&amp;#34;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;!-- ###Kode HTML --&amp;gt; css &amp;lt;!-- ###Kode CSS --&amp;gt; &amp;lt;style&amp;gt; * { padding: 0; margin: 0; } .</description>
+    </item>
+    
+  </channel>
+</rss>
